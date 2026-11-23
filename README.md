@@ -32,9 +32,9 @@ Developed a Laravel web application for [SHORT DESCRIPTION].
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Cloud Architecture Multi-Agent Assistant**](https://github.com/Anas0409/REPO) | Agents collaborate to propose and justify cloud architectures from user requirements | LangGraph · ChromaDB · NVIDIA NIM · Langfuse · FastAPI |
-| [**PROJECT 2 – YOLO**](https://github.com/Anas0409/REPO) | Real-time object detection for [USE CASE] — mAP: [X] | YOLO · Python · OpenCV |
-| [**PROJECT 3 – Full-stack**](https://github.com/Anas0409/REPO) | [ONE-LINE DESCRIPTION] | FastAPI · React · PostgreSQL · Docker |
+| [**Idarati v2 – Multi-Agent Complaint Handling**](https://github.com/Anas0409/multiAgent_Langraph_Idarati) | Orchestrates 4 specialized agents (Legal, Procedure, Drafting, Translation) with RAG over 3 knowledge bases, a quality gate and multi-channel delivery (WhatsApp, Email, SMS) | LangGraph · RAG (Qdrant) · Claude API · PostgreSQL · Redis · Docker |
+| [**YouTube Trending Data Pipeline**](https://github.com/Anas0409/Youtube-Trending-Data-Pipelines) | Serverless ETL ingesting trending videos from 10 regions through a Medallion architecture (Bronze → Silver → Gold) with data-quality gates | AWS Step Functions · YouTube Data API v3 · Python |
+| [**GTFS-RT Real-Time Pipeline**](https://github.com/Anas0409/GTFS--RT) | Streams live vehicle positions, trip updates and service alerts from Helsinki public transport (HSL) into Kafka and Cassandra, queried with Trino | Kafka · Cassandra · Trino · Metabase · Docker |
 
 ---
 
