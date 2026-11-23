@@ -83,8 +83,4 @@ Developed a Laravel web application for [SHORT DESCRIPTION].
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas0409&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
 <p align="center">📫 Open to PFE opportunities in AI / Data Science — feel free to reach out!</p>
