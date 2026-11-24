@@ -24,7 +24,7 @@
 Built a **multi-agent assistant for cloud architecture design** with LangGraph, RAG (ChromaDB), NVIDIA NIM LLM APIs and Langfuse for tracing & evaluation.
 <!-- Add 1 measurable result, e.g. "reduced architecture draft time from X h to Y min" -->
 
-**Web Developer Intern — Ministry of Digital Transition (Morocco)**<br>
+**Web Developer Intern — Ministry of Artificial Intelligence and Digital Transition (Morocco)**<br>
 Developed web application features with Laravel, MySQL and REST APIs.
 
 ---
