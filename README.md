@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anas-benhaddane-37276735a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:anas.benhaddane@uit.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://drive.google.com/file/d/1XeUeeFCFctr5hF4Sy63iqWBJRdlMWOEj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume%20%28EN%29-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume EN"/></a>
+  <a href="https://drive.google.com/file/d/1MpaGE_mzkhXswjB1cna-rAaduOYE663d/view?usp=sharing"><img src="https://img.shields.io/badge/CV%20%28FR%29-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV FR"/></a>
 </p>
 
 ---
