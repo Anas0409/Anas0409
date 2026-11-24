@@ -2,9 +2,8 @@
 <h3 align="center">Big Data & Data Science engineering student · Building LLM apps (RAG, multi-agent systems)</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="LINK_TO_YOUR_CV.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/anas-benhaddane-37276735a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:anas.benhaddane@uit.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -13,18 +12,18 @@
 
 - 🎓 Engineering student in **Computer Engineering – Big Data & Data Science** at **ENSA Kénitra** (Morocco)
 - 🤖 Focused on **LLM applications**: RAG pipelines, multi-agent orchestration, LLM observability
-- 🎯 **Looking for a 6-month end-of-studies internship (PFE)** in Data Science / AI, starting **[MONTH YEAR]**
+- 🎯 **Looking for a 6-month end-of-studies internship (PFE)** in Data Science / AI, starting **February 2027**
 
 ---
 
 ### 💼 Experience
 
-**AI Intern — DXC Technology**
+**AI Intern — DXC Technology**<br>
 Built a **multi-agent assistant for cloud architecture design** with LangGraph, RAG (ChromaDB), NVIDIA NIM LLM APIs and Langfuse for tracing & evaluation.
 <!-- Add 1 measurable result, e.g. "reduced architecture draft time from X h to Y min" -->
 
-**Web Developer Intern — Ministry of Digital Transition (Morocco)**
-Developed a Laravel web application for [SHORT DESCRIPTION].
+**Web Developer Intern — Ministry of Digital Transition (Morocco)**<br>
+Developed web application features with Laravel, MySQL and REST APIs.
 
 ---
 
@@ -78,8 +77,7 @@ Developed a Laravel web application for [SHORT DESCRIPTION].
 
 ### 🌱 Currently
 
-- 🔭 Working on **[CURRENT PROJECT, e.g. agentic RAG with evaluation]**
-- 📚 Learning **[e.g. LLM fine-tuning / MLOps]**
+- 📚 Leveling up my **AI Engineering** skills: advanced RAG, multi-agent systems, LLM evaluation & observability
 
 ---
 
